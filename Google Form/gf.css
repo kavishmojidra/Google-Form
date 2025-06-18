@@ -1,0 +1,70 @@
+body{
+    background-color: #ede7F6;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.form{
+    height: 1100px;
+    width: 600px;
+    margin: auto;
+}
+
+.required{
+    font-size: 13px;
+    color: red;
+}
+
+.title{
+    height: 150px;
+    width: 600px;
+    background-color: #FDFEFE;
+    margin: 15px;
+    border-radius: 8px;
+    border-top: 8px solid #6703c4;
+    padding: 25px;
+}
+
+.name-div, .college-div, .email-div, .mobile-div{
+    height: 150px;
+    width: 650px;
+    background-color: #FDFEFE;
+    margin: 15px;
+    border-radius: 8px;
+}
+
+.name{
+    padding: 20px 0px 25px 25px;
+    font-size: 15px;
+}
+
+.input-div{
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+.input-div input{
+    width: 300px;
+    border: 0;
+    outline: 0;
+    border-bottom: 1.5px solid lightgray;
+}
+
+.btn{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #6703c4;
+    color: #FDFEFE;
+    font-weight: 540;
+    border: none;
+    padding: 10px;
+    position: absolute;
+    margin: 15px;
+}
+
+.last-div{
+    text-align: center;
+    padding-top: 100px;
+    color: #a2a4a6;
+    font-weight: 200;
+}
